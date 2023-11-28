@@ -2,9 +2,9 @@
     width: 65%;
     height: 60vh;
     display: flex;
-    margin: 20vh auto 0 auto;
+    margin: 0 auto;
     padding: 0 140px;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
     background: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%);
 }
 
